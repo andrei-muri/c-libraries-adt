@@ -1,3 +1,0 @@
-E:/Facultate/C libraries/AVL Tree/cmake-build-debug/CMakeFiles/AVL_Tree.dir
-E:/Facultate/C libraries/AVL Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Facultate/C libraries/AVL Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

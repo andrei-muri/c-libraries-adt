@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1683484205 source:e:\facultate\c libraries\maxheap\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
