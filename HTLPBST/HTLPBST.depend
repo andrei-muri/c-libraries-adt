@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683136771 source:e:\facultate\c libraries\htlpbst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
